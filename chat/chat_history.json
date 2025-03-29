@@ -1,0 +1,37 @@
+[
+  {
+    "sender": "System",
+    "content": "Welcome to the AI Group Chat! Type a message to start the conversation.",
+    "timestamp": 1743246080.311265
+  },
+  {
+    "sender": "Human",
+    "content": " hi",
+    "timestamp": 1743247098.1971781
+  },
+  {
+    "sender": "System",
+    "content": "Error getting response from Gemini: 400 Please use a valid role: user, model.",
+    "timestamp": 1743247098.2998896
+  },
+  {
+    "sender": "Llama",
+    "content": "Let's imagine a virtual art gallery where AI-generated art pieces come to life. What kind of art would you like to see exhibited?",
+    "timestamp": 1743247098.748081
+  },
+  {
+    "sender": "Human",
+    "content": "idk",
+    "timestamp": 1743247109.3971272
+  },
+  {
+    "sender": "System",
+    "content": "Error getting response from Gemini: 400 Please use a valid role: user, model.",
+    "timestamp": 1743247109.4456692
+  },
+  {
+    "sender": "Llama",
+    "content": "Llama: How about we create a collaborative art piece? I'll start with a surreal landscape, and you can add a mysterious object to the scene. Then, I'll respond with a character interacting with that object. Ready?",
+    "timestamp": 1743247109.8696249
+  }
+]
